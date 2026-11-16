@@ -1,4 +1,4 @@
-# Hi, I'm Mouhamed Dia 👋
+# Hi, I'm Mouhamed 👋
 
 I'm an **Electrical & Computer Engineering student at Temple University** interested in embedded systems, firmware, digital hardware, RF, and aviation technology.
 
