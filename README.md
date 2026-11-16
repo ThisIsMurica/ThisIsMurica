@@ -11,7 +11,7 @@ I enjoy building projects where hardware and software work together: integrating
 - **Automated aviation weather station** — ESP32 sensor acquisition, Python processing, and aviation-style weather reporting.
 - **FPGA and digital design** — SystemVerilog development, simulation, and verification using the DE10-Lite, Quartus, and ModelSim.
 
-The FMC and ADS-B tracker repositories include source code and technical documentation. I’m continuing to add hardware validation results and publish other projects as they are ready.
+The FMC, ADS-B tracker, and aviation weather station repositories include source code and technical documentation. I'm continuing to add hardware validation results as the projects develop.
 
 ## Projects on GitHub
 
@@ -19,6 +19,7 @@ The FMC and ADS-B tracker repositories include source code and technical documen
 | --- | --- | --- |
 | [ESP32-S3 Flight Management Computer](https://github.com/ThisIsMurica/esp32-s3-flight-management-computer) | Touchscreen avionics-style CDU with route editing, SD navdata and ESP-NOW sensor interface | Arduino C++, LVGL, ESP32-S3 |
 | [Raspberry Pi ADS-B Aircraft Tracker](https://github.com/ThisIsMurica/raspberry-pi-adsb-aircraft-tracker) | 1090 MHz aircraft reception and LED matrix presentation with local tracking and lookup caches | Raspberry Pi, RTL-SDR, Python, HUB75 |
+| [ESP32 Automated Aviation Weather Station](https://github.com/ThisIsMurica/esp32-awos-weather-station) | ESP32/BME280 atmospheric sensing, Python calculations, DECtalk weather audio and a local Flask listening page | ESP32, C++, Python, Flask |
 | [AeroBrief](https://github.com/ThisIsMurica/aerobrief) | Aviation weather application for interpreting METAR information and exploring wind/runway conditions | TypeScript, React, APIs |
 | [Engineering portfolio](https://github.com/ThisIsMurica/Portfolio-website) | Personal engineering portfolio and project overview | React, JavaScript, Tailwind CSS |
 
