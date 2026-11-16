@@ -17,6 +17,7 @@ These are ongoing hardware projects. I'll add source code, wiring diagrams, test
 
 | Project | Overview | Technologies |
 | --- | --- | --- |
+| [ESP32-S3 Flight Management Computer](https://github.com/ThisIsMurica/esp32-s3-flight-management-computer) | Touchscreen avionics-style CDU with route editing, SD navdata and ESP-NOW sensor interface | Arduino C++, LVGL, ESP32-S3 |
 | [AeroBrief](https://github.com/ThisIsMurica/aerobrief) | Aviation weather application for interpreting METAR information and exploring wind/runway conditions | TypeScript, React, APIs |
 | [Engineering portfolio](https://github.com/ThisIsMurica/Portfolio-website) | Personal engineering portfolio and project overview | React, JavaScript, Tailwind CSS |
 
